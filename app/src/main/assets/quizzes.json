@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cooking",
+    "title": "Все о кулинарии",
+    "subtitle": "Кулинарная викторина",
+    "icon": "♨",
+    "color": "#FFFFFF",
+    "timeLimitSec": 10,
+    "questions": [
+      {"id": 1, "question": "Какое блюдо солят трижды в процессе приготовления: в тесто, в начинку и при варке?", "options": ["Оливье", "Пельмени", "Лазанья", "Чебуреки"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 2, "question": "Как называется итальянский десерт из кофе, печенья и маскарпоне?", "options": ["Панна-котта", "Тирамису", "Канноли", "Семифредо"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 3, "question": "Какую крупу традиционно используют для ризотто?", "options": ["Арборио", "Булгур", "Кускус", "Перловка"], "correctIndex": 0, "timeLimitSec": 10, "points": 5},
+      {"id": 4, "question": "Из какого молока обычно делают сыр моцарелла?", "options": ["Козьего", "Овечьего", "Коровьего или буйволиного", "Верблюжьего"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 5, "question": "Какой ингредиент придаёт борщу характерную кислинку?", "options": ["Свёкла", "Уксус или квас", "Картофель", "Сметана"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 6, "question": "Как называется японский омлет, который готовят слоями?", "options": ["Тамагояки", "Окономияки", "Такояки", "Моти"], "correctIndex": 0, "timeLimitSec": 10, "points": 5},
+      {"id": 7, "question": "Что является основой классического хумуса?", "options": ["Чечевица", "Нут", "Фасоль", "Горох"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 8, "question": "Какой соус готовят из базилика, кедровых орехов и пармезана?", "options": ["Песто", "Айоли", "Тартар", "Сальса"], "correctIndex": 0, "timeLimitSec": 10, "points": 5},
+      {"id": 9, "question": "Как называется французский суп из лука с сырной корочкой?", "options": ["Буйабес", "Потаж", "Луковый суп", "Консоме"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 10, "question": "Какой специи шафран придаёт блюдам золотистый цвет?", "options": ["Куркума", "Корица", "Кардамон", "Паприка"], "correctIndex": 0, "timeLimitSec": 10, "points": 5}
+    ]
+  },
+  {
+    "id": "space",
+    "title": "Космос",
+    "subtitle": "Планеты, звёзды и открытия",
+    "icon": "✦",
+    "color": "#7568E8",
+    "timeLimitSec": 10,
+    "questions": [
+      {"id": 1, "question": "Какая планета ближе всего к Солнцу?", "options": ["Венера", "Меркурий", "Марс", "Земля"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 2, "question": "Как называется наша галактика?", "options": ["Андромеда", "Млечный Путь", "Туманность Ориона", "Сомбреро"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 3, "question": "Сколько планет в Солнечной системе?", "options": ["7", "8", "9", "10"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 4, "question": "Какую планету называют Красной?", "options": ["Юпитер", "Сатурн", "Марс", "Нептун"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 5, "question": "Кто первым ступил на Луну?", "options": ["Юрий Гагарин", "Нил Армстронг", "Базз Олдрин", "Алексей Леонов"], "correctIndex": 1, "timeLimitSec": 10, "points": 5}
+    ]
+  },
+  {
+    "id": "science",
+    "title": "Наука",
+    "subtitle": "Факты, которые удивляют",
+    "icon": "⚛",
+    "color": "#21A68B",
+    "timeLimitSec": 10,
+    "questions": [
+      {"id": 1, "question": "Какой газ растения поглощают при фотосинтезе?", "options": ["Кислород", "Азот", "Углекислый газ", "Водород"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 2, "question": "Какой орган перекачивает кровь по телу?", "options": ["Лёгкие", "Сердце", "Печень", "Почки"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 3, "question": "Как называется центр атома?", "options": ["Электрон", "Орбита", "Ядро", "Квант"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 4, "question": "При какой температуре замерзает вода?", "options": ["0 °C", "10 °C", "−10 °C", "100 °C"], "correctIndex": 0, "timeLimitSec": 10, "points": 5},
+      {"id": 5, "question": "Какой металл жидкий при комнатной температуре?", "options": ["Железо", "Медь", "Ртуть", "Алюминий"], "correctIndex": 2, "timeLimitSec": 10, "points": 5}
+    ]
+  },
+  {
+    "id": "geography",
+    "title": "География",
+    "subtitle": "Путешествие по планете",
+    "icon": "⌖",
+    "color": "#E3A138",
+    "timeLimitSec": 10,
+    "questions": [
+      {"id": 1, "question": "Какой океан самый большой?", "options": ["Атлантический", "Индийский", "Тихий", "Северный Ледовитый"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 2, "question": "Столица Австралии — это…", "options": ["Сидней", "Мельбурн", "Канберра", "Перт"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 3, "question": "Какая гора самая высокая в мире?", "options": ["Эльбрус", "Килиманджаро", "Эверест", "Монблан"], "correctIndex": 2, "timeLimitSec": 10, "points": 5},
+      {"id": 4, "question": "Какой материк самый холодный?", "options": ["Европа", "Антарктида", "Азия", "Южная Америка"], "correctIndex": 1, "timeLimitSec": 10, "points": 5},
+      {"id": 5, "question": "Через сколько часовых поясов проходит Россия?", "options": ["7", "9", "11", "13"], "correctIndex": 2, "timeLimitSec": 10, "points": 5}
+    ]
+  }
+]
